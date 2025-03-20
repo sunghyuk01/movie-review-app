@@ -1,0 +1,13 @@
+# Node.js 관련
+node_modules/
+
+# 환경 변수 파일
+.env
+
+# 데이터베이스 백업 파일
+*.sql
+*.zip
+
+# 시스템 파일 (Windows에서 생성되는 불필요한 파일)
+*.lnk
+desktop.ini
